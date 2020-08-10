@@ -1,3 +1,3 @@
 # Quiz_App
 
-A Quiz App Flutter project. obvious
+A Quiz App Flutter project.
